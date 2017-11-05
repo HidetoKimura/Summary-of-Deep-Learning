@@ -7,3 +7,5 @@
 ## Object Detection
 ### R-CNN
 ### FCN
+### SSD
+https://qiita.com/de0ta/items/1ae60878c0e177fc7a3a
