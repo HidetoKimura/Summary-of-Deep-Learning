@@ -1,8 +1,8 @@
-# Summary-of-Deep-Learninghttp://www.image-net.org/challenges/LSVRC/
+# Summary-of-Deep-Learning
 ## ImageNet
-http://www.image-net.org/
+- http://www.image-net.org/
 ## ILSVRC(ImageNet Large Scale Virtual Recognition Challenge)
-http://www.image-net.org/challenges/LSVRC/
+- http://www.image-net.org/challenges/LSVRC/
 ### AlexNet(2012)
 ### VGG(2014)
 ### GoogLeNet(2014)
@@ -11,4 +11,4 @@ http://www.image-net.org/challenges/LSVRC/
 ### R-CNN
 ### FCN
 ### SSD
-https://qiita.com/de0ta/items/1ae60878c0e177fc7a3a
+- https://qiita.com/de0ta/items/1ae60878c0e177fc7a3a
