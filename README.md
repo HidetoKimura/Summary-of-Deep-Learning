@@ -8,7 +8,7 @@
 ### GoogLeNet(2014)
 ### ResNet(2015)
 ## Object Detection
+- https://www.slideshare.net/WenjingChen7/deep-learning-for-object-detection
 ### R-CNN
 ### FCN
 ### SSD
-- https://qiita.com/de0ta/items/1ae60878c0e177fc7a3a
