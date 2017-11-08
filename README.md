@@ -48,13 +48,21 @@
 
 ### SSD
 - R-CNNの問題は、検出速度が早くないこと。細かくマスに分けることで、矩形の候補と物体検出を精度と速度を両立したもの。
- 
+- SSDはTensorflowが学習済みデータを公開しており、環境によっては、数10msで検知できるなどすでに実用的。
+- 下記のudacityのチュートリアルで実際動作させられる。
+    - https://github.com/HidetoKimura/carnd_object_detection
+
 ![](./ssd.jpg)
 ![](./ssd-2.png)
 
 ### FCN
 - 矩形検出ではなく、pixelごとにどのものを表しているのかを学習さえ画像自体を分類してしまうもの
 - これを使えば画像にマスクをかけられるようになるので、車なのか人なのか道路がはっきり区別できるようになる。矩形だと判定に誤差が大きい。
+- 下記のudacityのprojectで実際動作させられる。
+    - https://github.com/HidetoKimura/carnd_semantic_segmentation
+- GoProもどきの画像をInputした結果
+    - https://drive.google.com/open?id=1ejDvcKkAvApTcZvyfneJiag8OE8xnKr1
+
 ![](./fcn.png)
 ![](./fcn.jpg)
 
